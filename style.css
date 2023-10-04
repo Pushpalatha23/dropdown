@@ -1,0 +1,7 @@
+.container{
+  text-align: center;
+  background-color: bisque;
+  margin-top:50px;
+  box-sizing: 10px;
+  box-shadow:20px solid black;
+}
